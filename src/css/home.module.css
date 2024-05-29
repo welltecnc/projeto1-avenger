@@ -50,7 +50,7 @@
 .sombra{
   width: 450px;
   height: 45px;
-  background: var(--color1);
+  background: var(--color2);
   border-radius: 50%;
   margin: 0 auto;
   filter:blur(7px);
