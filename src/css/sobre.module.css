@@ -1,0 +1,51 @@
+.section{
+  padding-top: 200px;
+  width: 100%;
+  height: 100vh;
+}
+.medicao{
+  display: flex;
+  justify-content: space-around;
+  margin: 0 6rem 6rem 3rem;
+  gap:2rem;
+}
+.medicaoItem{
+  width: 25%;
+}
+.medicaoItem span{
+  font-size: 4rem;
+  color:var(--color6) 
+}
+.medicaoItem h3{
+  font-size: 1.7rem;
+  font-weight: 700;
+  color:var(--color4);
+  margin-top: 1.5rem;
+}
+.medicaoItem p{
+  font-size: 1.3rem;
+  color:var(--color6);
+  margin-top: 1.5rem;
+}
+
+/*responsividade*/
+
+.medicao{
+  margin-top: 200px;
+  gap:25px;
+}
+
+.medicaoItem{
+  width: 100%;
+}
+
+.medicaoItem span{
+  font-size: 3.5rem;
+  }
+
+.medicaoItem h3{
+font-size: 1.3rem;
+}
+.medicaoItem p{
+  font-size: 1.3rem;
+  }
